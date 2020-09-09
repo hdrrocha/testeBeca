@@ -12,7 +12,7 @@ Entendemos que temos uma oportunidade de desenvolvimento e queremos trabalhar em
 
 ### Requisitos
 
-#### A versão mínima do aplicativo deve ser desenvolvida em kotlin e ter:
+#### A versão mínima do aplicativo deve ser desenvolvida em kotlin ou Java e ter:
 
 -Tela inicial com a listar todos personagens;
 -Ao clicar em um personagem deve ser iniciado uma tela com para detalhamento do personagem contendo nome, foto e descrição do personagem;
