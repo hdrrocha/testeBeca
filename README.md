@@ -15,16 +15,24 @@ Entendemos que temos uma oportunidade de desenvolvimento e queremos trabalhar em
 #### A versão mínima do aplicativo deve ser desenvolvida em kotlin ou Java e ter:
 
 -Tela inicial com a listar todos personagens;
+
 -Ao clicar em um personagem deve ser iniciado uma tela com para detalhamento do personagem contendo nome, foto e descrição do personagem;
+
 -Aplicação de arquitetura MVVM ou uma de sua preferência que você consiga explicar;
+
 -Para o teste pedimos que siga uma boa prática para que tenha uma UX amigável 
 
 
 #### Após cumprir os critérios de avaliação para os itens anteriores, seu projeto pode evoluir com as seguintes funcionalidades:
 
+
 -Cache para funcionamento offline.
+
 -Pesquisar por heróis;
+
+
 -Aplicação de testes unitários;
+
 
 
 ## Avaliação
