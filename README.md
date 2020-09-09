@@ -3,8 +3,11 @@
 ## Descrição
 
 Para o teste além do conhecimento prática, queremos saber como você se sai na parte teórica, para esta parte responda as questões, a e b, anexe em um txt dentro do projeto, no readme ou envie no email quando o teste for terminado.
+
 a) descrever ciclo de vida de um fragment e activitys e identifique em qual situação é indicado o uso de ambas;
+
 b) sobre arquiteturas de desenvolvimento, descreva a arquitetura MVP e MVVM e nos conte qual a que julga melhor para aplicação em projetos android e por que;
+
 Para o teste teórico segue instruções para o mesmo. Entendemos que temos uma oportunidade de desenvolvimento e queremos trabalhar em um app para que possamos identificar os personagens de forma simples e rápida. Para isso resolvemos usar a API da [Marvel](https://developer.marvel.com/)
 
 ### Requisitos
