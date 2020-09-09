@@ -8,7 +8,7 @@ a) descrever ciclo de vida de um fragment e activitys e identifique em qual situ
 
 b) sobre arquiteturas de desenvolvimento, descreva a arquitetura MVP e MVVM e nos conte qual a que julga melhor para aplicação em projetos android e por que;
 
-Para o teste teórico segue instruções para o mesmo. Entendemos que temos uma oportunidade de desenvolvimento e queremos trabalhar em um app para que possamos identificar os personagens de forma simples e rápida. Para isso resolvemos usar a API da [Marvel](https://developer.marvel.com/)
+Entendemos que temos uma oportunidade de desenvolvimento e queremos trabalhar em um app para que possamos identificar os personagens de forma simples e rápida. Para isso resolvemos usar a API da [Marvel](https://developer.marvel.com/)
 
 ### Requisitos
 
